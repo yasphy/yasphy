@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yasphy
 - 👀 I’m interested in learning and exploring java
-- 🌱 I’m currently learning java and python
-- 💞️ I’m looking to collaborate on backend developement
+- 🌱 I’m currently Data Science
+- 💞️ I’m looking to collaborate on ML and DL projects
 - 📫 How to reach me yash19b2@gmail.com
 
 <!---
