@@ -10,5 +10,5 @@ You can click the Preview link to take a look at your changes.
 | Purpose      |                        Id/Link                                                   |
 | ------------ | ---------------------------------------------------------------------------------|
 | Email        |                      yash19b2@gmail.com                                          |
-| Kaggle works |   ![Kaggle](https://www.kaggle.com/yashvardhanprasad/code)                       |
-| Colab works  |![Colab](https://drive.google.com/folderview?id=1YjKu9lXhefNkgWgpZQ4WPhwrmb4YS89U)|
+| Kaggle works |    [Kaggle](https://www.kaggle.com/yashvardhanprasad/code)                       |
+| Colab works  | [Colab](https://drive.google.com/folderview?id=1YjKu9lXhefNkgWgpZQ4WPhwrmb4YS89U)|
